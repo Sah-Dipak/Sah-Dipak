@@ -6,13 +6,14 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" /> -->
 
 ## 📌 About Me
 - Hi 👋, I'm Dipak Kumar
 - 💻 Computer Science Student
 - 🚀 Interested in Web Development and Programming
 - 🛠️ Building projects and improving skills every day
+
 - Skills
 - C Programming
 - HTML
@@ -21,9 +22,6 @@
 - JAVA
 - DBMS
 - Python
-- Connect with Me
-- GitHub: Sah-Dipak
-- Instagram: dipak__kumar072
 - ⭐ Always learning new things and creating projects!
 
 
